@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\bin\Debug\netcoreapp3.1\Lab03SystemIO.exe
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\bin\Debug\netcoreapp3.1\Lab03SystemIO.deps.json
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\bin\Debug\netcoreapp3.1\Lab03SystemIO.runtimeconfig.json
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\bin\Debug\netcoreapp3.1\Lab03SystemIO.runtimeconfig.dev.json
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\bin\Debug\netcoreapp3.1\Lab03SystemIO.dll
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\bin\Debug\netcoreapp3.1\Lab03SystemIO.pdb
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\obj\Debug\netcoreapp3.1\Lab03SystemIO.csprojAssemblyReference.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\obj\Debug\netcoreapp3.1\Lab03SystemIO.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\obj\Debug\netcoreapp3.1\Lab03SystemIO.AssemblyInfo.cs
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\obj\Debug\netcoreapp3.1\Lab03SystemIO.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\obj\Debug\netcoreapp3.1\Lab03SystemIO.dll
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\obj\Debug\netcoreapp3.1\Lab03SystemIO.pdb
+\\Mac\Home\Documents\codefellows\401\Dotnet\SystemIO\Lab03-SystemIO\Lab03SystemIO\obj\Debug\netcoreapp3.1\Lab03SystemIO.genruntimeconfig.cache
